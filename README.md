@@ -1,6 +1,7 @@
 # Canal Expertos Tech
 
 **Vídeo tutorial:** https://youtu.be/OhD5xvj4kQw
+
 **Redes Sociais:** https://linktr.ee/expertostech  
 
 # Como usar o Lombok com Java | Plugins para o IntelliJ e Eclipse | Produtividade
